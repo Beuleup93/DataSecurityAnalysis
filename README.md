@@ -1,2 +1,5 @@
-# DataSecurityAnalyss
- Ce projet entre dans le cadre de notre formation en data science. Il consiste à creer une application Shiny pour analyser des données de sécurité (simulation d'attaque). 
+## DataSecurityAnalyss
+
+### Description
+
+This project is part of our training in data science. It consists in creating a Shiny application to analyze security data (attack simulation). 
